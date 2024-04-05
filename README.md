@@ -56,6 +56,7 @@ scrapy crawl ozon -o ozon2.csv
 
 Полученный результат:
 
-![image](https://github.com/bgbisdbg/parser_ozon/assets/136889642/b1312b40-f71f-4284-a197-9fb0210e6ceb)
+![image](https://github.com/bgbisdbg/Parser_Ozon/assets/136889642/55fb0cba-346a-4953-b11b-7bcadaebfbac)
+
 
 
